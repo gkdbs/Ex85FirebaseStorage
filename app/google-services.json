@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629087671361",
+    "project_id": "ex85mrhifirebasestorage2021",
+    "storage_bucket": "ex85mrhifirebasestorage2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629087671361:android:9224308814811db07be2c0",
+        "android_client_info": {
+          "package_name": "com.mrhi2020.ex85firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629087671361-kv2spkmnr1md909hff6p69i02qj4q5o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXy0VHCO-Q3KILgTlsyy_gZXq4DA2PEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629087671361-kv2spkmnr1md909hff6p69i02qj4q5o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
